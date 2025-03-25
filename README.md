@@ -1,3 +1,7 @@
-# Code Playground
+# dev-lab
 
-A collection of JavaScript and TypeScript code snippets, utilities, and examples to explore different programming concepts.
+A collection of technical notes and code snippets covering front-end, back-end, DevOps, and software development concepts.
+
+
+## Technical Notes and Explanations
+For detailed notes and explanations, refer to [notes.md](notes.md).
